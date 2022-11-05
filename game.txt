@@ -2,4 +2,5 @@ start game
 first blood
 double kill
 threeble kill
+penta kill
 end game
