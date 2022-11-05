@@ -1,2 +1,3 @@
 start game
+first blood
 end game
