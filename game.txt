@@ -1,3 +1,4 @@
 start game
 first blood
+double kill
 end game
