@@ -5,3 +5,4 @@ threeble kill
 penta kill
 game over
 end game
+志义网不行就换电脑吧
